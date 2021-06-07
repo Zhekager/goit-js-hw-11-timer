@@ -1,39 +1,4 @@
-/* html {
-    box-sizing: border-box;
-  }
-  
-  body {
-    background-color: #fff;
-    color: #212121;
-  }
-  
-  .timer {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 15px;
-    font-family: 'Roboto Mono', monospace;
-    margin-top: 0;
-    margin-bottom: 24px;
-  }
-  .field {
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    width: 150px;
-    height: 150px;
-    font-size: 30px;
-  }
-  .field:not(:last-child) {
-    margin-right: 10px;
-  }
-  .value {
-    background-color: rgb(119, 136, 153);
-    color: #fff;
-    border-radius: 5px;
-    font-size: 50px;
-  } */
-
-  body {
+body {
     margin-top: 120px;
     background-color: #b6e3e9;
     text-align: center;
